@@ -1,5 +1,5 @@
 cask "wg-widget" do
-  version "1.0.0"
+  version "0.0.0-dev+6525ff9"
   sha256 :no_check
 
   url "https://github.com/xiang/wg-widget/releases/download/latest/wg-widget.dmg"
